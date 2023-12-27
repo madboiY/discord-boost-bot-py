@@ -1,0 +1,17 @@
+{
+    "capmonster_key": "",
+    "proxyless": true,
+    "change_server_nick": false,
+    "change_server_bio": true,
+    "bio": "",
+    "nickname": "",
+    "token": "",
+    "guild": [
+        
+    ],
+    "owner": "",
+    "whitelisted": [
+        "",
+        ""
+    ]
+}
